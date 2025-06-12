@@ -70,3 +70,5 @@ Para ejecutar este proyecto necesitas tener instalado:
 - El historial de lanzamientos se guarda en tu cuenta de Supabase.
 - Mantén seguras tus credenciales de Supabase.
 - La aplicación usa Edge Functions de Supabase para generar números aleatorios de forma segura.
+
+## Screenshot de App en ejecucion
