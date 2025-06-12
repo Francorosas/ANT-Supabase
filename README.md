@@ -72,3 +72,4 @@ Para ejecutar este proyecto necesitas tener instalado:
 - La aplicación usa Edge Functions de Supabase para generar números aleatorios de forma segura.
 
 ## Screenshot de App en ejecucion
+![APP-EJECUCION](/Dicerollapp.png)
